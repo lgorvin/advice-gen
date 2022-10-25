@@ -1,11 +1,10 @@
-# Link Shortener
+# Advice Generator
 
 ## Built With
 - React.js
 - Tailwind CSS
-- React Bootstrap
 - Mobile First Workflow
-- shrtco.de API
+- API
 
 ## Live Demo
 - [Advice Generator](http:/https://dynamic-granita-7f4bc2.netlify.app// "Advice Generator")
